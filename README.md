@@ -1,5 +1,4 @@
 ## Olá! Sou Nicolas Angeli, desenvolvedor e estudante de Sistemas da informação
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
